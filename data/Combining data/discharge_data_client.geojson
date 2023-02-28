@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "BLACK VOLTA, VONKORO.txt", "lat": 9.171205333996518, "lon": -2.7448412667392383 }, "geometry": { "type": "Point", "coordinates": [ -2.744841266739238, 9.171205333996518 ] } },
+{ "type": "Feature", "properties": { "name": "BOUGOURIBA, DAN.txt", "lat": 10.867875919446051, "lon": -3.7224792733566319 }, "geometry": { "type": "Point", "coordinates": [ -3.722479273356632, 10.867875919446051 ] } },
+{ "type": "Feature", "properties": { "name": "MOU HOUN, BLACK VOLTA, SAMANDENI.txt", "lat": 11.458715461275865, "lon": -4.4694765965836813 }, "geometry": { "type": "Point", "coordinates": [ -4.469476596583681, 11.458715461275865 ] } },
+{ "type": "Feature", "properties": { "name": "MOU HOUN, BLACK VOLTA,DAPOLA.txt", "lat": 10.572861584223373, "lon": -2.9141348920359991 }, "geometry": { "type": "Point", "coordinates": [ -2.914134892035999, 10.572861584223373 ] } },
+{ "type": "Feature", "properties": { "name": "NAKANBE, WHITE VOLTA, YAKALA.txt", "lat": 11.344607777805557, "lon": -0.52896542269746671 }, "geometry": { "type": "Point", "coordinates": [ -0.528965422697467, 11.344607777805557 ] } },
+{ "type": "Feature", "properties": { "name": "NAKANBE, WHITE VOLTA, YILOU.txt", "lat": 12.999710437528879, "lon": -1.570603458131631 }, "geometry": { "type": "Point", "coordinates": [ -1.570603458131631, 12.999710437528879 ] } },
+{ "type": "Feature", "properties": { "name": "NAZINON, RED VOLTA, DAKAYE.txt", "lat": 11.777456003610485, "lon": -1.6001563849044829 }, "geometry": { "type": "Point", "coordinates": [ -1.600156384904483, 11.777456003610485 ] } },
+{ "type": "Feature", "properties": { "name": "PENDJARI, PORGA.txt", "lat": 11.045433053420533, "lon": 0.95991352863968105 }, "geometry": { "type": "Point", "coordinates": [ 0.959913528639681, 11.045433053420533 ] } },
+{ "type": "Feature", "properties": { "name": "SINGOU, SAMBOALI.txt", "lat": 11.279536764583742, "lon": 1.0158889285854777 }, "geometry": { "type": "Point", "coordinates": [ 1.015888928585478, 11.279536764583742 ] } }
+]
+}
