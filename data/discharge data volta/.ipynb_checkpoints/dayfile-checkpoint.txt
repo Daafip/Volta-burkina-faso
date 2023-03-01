@@ -1,0 +1,44 @@
+
+EXPLANATION OF DAILY RUNOFF DATAFILES
+
+A                                       B                           C DE
+__________________________________________________________________________
+CHINDWIN                                HKAMTI
+334.00 9999.320.00305.00296.00292.00288.00276.00268.00264.00        1 11978
+264.00256.00252.00248.00248.00244.00244.00240.00236.00236.00        2 11978
+240.00240.00240.00232.00224.00216.00212.00208.00204.00200.00196.00  3 11978
+196.00196.00192.00192.00192.00188.00184.00184.00184.00184.00        1 21978
+180.00180.00176.00176.00168.00168.00164.00164.00160.00164.00        2 21978
+168.00172.00168.00164.00164.00164.00160.00160.00                    3 21978
+152.00148.00144.00140.00136.00140.00140.00136.00148.00148.00        1 31978
+156.00148.00140.00136.00124.00124.00120.00120.00112.00112.00        2 31978
+108.00108.00104.00104.0099.00099.00097.00097.00096.00096.00097.000  3 31978
+
+
+
+COMMENT:
+    A = Name of river (40 characters)
+    B = Name of station (40 characters max.)
+    C = Number of row (there are always 3 rows per month)
+    D = Month
+    E = Year
+
+The values are in m3/s.
+
+Data rows:
+Each data row has a length of 80 characters + line-feed, where the year,
+month and number of row are right-bound. There are always three rows per
+month. The first 2 rows contain 10 flow-values; the third will differ from
+8 to 11 values, depending on the count of days per month.
+Each value consists of 6 characters. There maybe leading blanks.
+
+Missing values will be marked with " 9999." or blanks (see 2nd Jan. 1978)
+
+As you may recognize, in the example above the data-rows are only 76
+characters of length this is because of formatting as a print-file!
+
+Example:
+    February 23rd, 1978 = 168.00
+
+The data from different stations situated in one datafile are divided by their
+river- and stationname.
