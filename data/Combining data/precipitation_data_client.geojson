@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
+{ "type": "Feature", "properties": { "name": "Ouagadougou" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5, 12.25 ], [ -1.25, 12.25 ], [ -1.25, 12.5 ], [ -1.5, 12.5 ], [ -1.5, 12.25 ] ] ] } },
 { "type": "Feature", "properties": { "name": "Nakambe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0, 13.25 ], [ -1.75, 13.25 ], [ -1.75, 13.5 ], [ -2.0, 13.5 ], [ -2.0, 13.25 ] ] ] } },
 { "type": "Feature", "properties": { "name": "Black_Volta" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.875, 9.375 ], [ -2.625, 9.375 ], [ -2.625, 9.625 ], [ -2.875, 9.625 ], [ -2.875, 9.375 ] ] ] } },
 { "type": "Feature", "properties": { "name": "Mouhoun" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -4.0, 11.75 ], [ -3.75, 11.75 ], [ -3.75, 12.0 ], [ -4.0, 12.0 ], [ -4.0, 11.75 ] ] ] } },
