@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "name": "Black_Volta" }, "geometry": { "type": "Point", "coordinates": [ -2.75, 9.55 ] } },
+{ "type": "Feature", "properties": { "name": "Lake_Volta" }, "geometry": { "type": "Point", "coordinates": [ 0.05, 6.45 ] } },
+{ "type": "Feature", "properties": { "name": "Mouhoun" }, "geometry": { "type": "Point", "coordinates": [ -3.95, 12.05 ] } },
+{ "type": "Feature", "properties": { "name": "Nakambe" }, "geometry": { "type": "Point", "coordinates": [ -2.15, 13.55 ] } },
+{ "type": "Feature", "properties": { "name": "Oti" }, "geometry": { "type": "Point", "coordinates": [ 0.15, 8.45 ] } },
+{ "type": "Feature", "properties": { "name": "Penjari" }, "geometry": { "type": "Point", "coordinates": [ 1.15, 11.15 ] } }
+]
+}
