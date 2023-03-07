@@ -12,3 +12,6 @@
 - `Volta_ERA5_lat_lon` & `Volta_precip_latest` contain the data mentioned above respectively
 
 #### all the spatial data is handled in hte Qgis files 
+
+#### python:
+`volta_enviroment.yml` contains all the packages needed and can be installed using [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), don't forget to follow the steps to get `pyeto` to work. 
