@@ -10,3 +10,5 @@
 - `rainfall data volta`
     analyses ichrip initially and then the precipitation data provided by the client.
 - `Volta_ERA5_lat_lon` & `Volta_precip_latest` contain the data mentioned above respectively
+
+#### all the spatial data is handled in hte Qgis files 
