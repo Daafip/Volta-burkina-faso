@@ -1,4 +1,4 @@
-# Volta-burkina-faso
+# Reservoirs in the Volta basin, focused on Burkina Faso
 #### project on the section of the volta basin in burkina faso
 Aim: Find suitable locations and sizes of reservoirs in order to mitigate drought. 
 ## The files are structured:
